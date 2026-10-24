@@ -14,4 +14,4 @@ The repository may include different programming languages, algorithms, data str
 
 ---
 
-*Personal educational repository. Not officially affiliated with Inova Maranhão or the Trilhas Program.*
+*This is a personal educational repository. Not officially affiliated with Inova Maranhão or the Trilhas Program.*
